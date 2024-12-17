@@ -682,6 +682,7 @@ section#s4>.container-fluid>.row>.col-sm-6>.stepbox{
 section#s5{
   background: conic-gradient(from 133.73deg at 50% 53.12%, #F0EFE6 0deg, #F0EFE6 100deg, #fad887 130deg, #F0EFE6 180deg, #fad887 250deg, #F0EFE6 330deg, #fad887 340deg, #F0EFE6 360deg);
   margin-top: -10px;
+  padding: 45px;
 }
 section#s5>.container-fluid>.row>.col-sm-7{
   padding-left: 100px;
