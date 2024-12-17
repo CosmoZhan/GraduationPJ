@@ -466,8 +466,8 @@ section#rankS>.container-fluid>.row>.col-sm-3>a:hover>h5{
     margin-bottom: 30px !important;
   }
   .col-sm-3 {
-    flex: 0 0 80vw !important; /* 設定寬度 */
-    max-width: 80vw !important; /* 限制最大寬度 */
+    flex: 0 0 85vw !important; /* 設定寬度 */
+    max-width: 85vw !important; /* 限制最大寬度 */
     padding: 10vw !important;
     display: flex;
     justify-content: center; 
