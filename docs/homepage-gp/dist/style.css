@@ -312,10 +312,10 @@ section#s3>.container-fluid>.row>.col-sm-3>.card{
   padding-right: 10px;
 }
 
-.card{
+.card-img-top{
   filter: blur(3.5px);
 }
-.card:hover{
+.card-img-top:hover{
   filter: none;
 }
 
