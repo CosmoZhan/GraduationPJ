@@ -443,6 +443,7 @@ section#rankS>.container-fluid>.row>.col-sm-3>a:hover>h5{
   .col-sm-3 {
     flex: 0 0 400px !important; /* 設定寬度 */
     max-width: 400px !important; /* 限制最大寬度 */
+    padding: 10vw;
     display: flex;
     justify-content: center; 
   }
