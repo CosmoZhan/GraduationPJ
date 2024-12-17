@@ -484,6 +484,7 @@ section#bottom{
   background: #79B95A;
   height: 60px;
   text-align: center;
+  width: 100vw;
 }
 section#bottom>.bottomblock{
   padding-top: 20px;
